@@ -1,0 +1,17 @@
+# Java
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
